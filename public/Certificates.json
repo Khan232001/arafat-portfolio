@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/Swz6tcbF/Screenshot-2025-09-13-122628.png",
+    "name": "MERN Stack Certificate",
+    "description": "Certified in modern web development covering HTML, CSS, JavaScript, React, Node, Express and MongoDB fundamentals."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/Y7ZwJvSJ/Screenshot-2025-09-13-122952.png",
+    "name": "DSA with Java",
+    "description": "Recognized for advanced DSA with Java."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/dw6kjBX4/Screenshot-2025-09-13-123048.png",
+    "name": "EXPERIENCE LETTER",
+    "description": "Completed professional training in React.js focusing on components, hooks, routing, and state management."
+  }
+]

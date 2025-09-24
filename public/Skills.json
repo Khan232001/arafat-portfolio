@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Java",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+    "reason": "OOP language"
+  },
+  {
+    "name": "C/C++",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+    "reason": "System programming"
+  },
+  {
+    "name": "Python",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "reason": "Scripting & ML"
+  },
+  {
+    "name": "JavaScript",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "reason": "Dynamic logic"
+  },
+  {
+    "name": "MySQL",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+    "reason": "Relational DB"
+  },
+  {
+    "name": "HTML5",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    "reason": "Web structure"
+  },
+  {
+    "name": "CSS3",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "reason": "Styling design"
+  },
+  {
+    "name": "Bootstrap",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+    "reason": "UI framework"
+  },
+  {
+    "name": "React",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "reason": "UI library"
+  },
+  {
+    "name": "Node.js",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "reason": "Backend runtime"
+  },
+  {
+    "name": "Express.js",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    "reason": "Server framework"
+  },
+  {
+    "name": "MongoDB",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    "reason": "NoSQL database"
+  },
+  {
+    "name": "DSA",
+    "logo": "https://cdn-icons-png.flaticon.com/512/1387/1387537.png",
+    "reason": "Problem solving"
+  },
+  {
+    "name": "OOP",
+    "logo": "https://cdn-icons-png.flaticon.com/512/1828/1828884.png",
+    "reason": "Object-oriented"
+  },
+  {
+    "name": "Git & GitHub",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "reason": "Version control"
+  },
+  {
+    "name": "REST APIs",
+    "logo": "https://cdn-icons-png.flaticon.com/512/1006/1006363.png",
+    "reason": "Data exchange"
+  },
+  {
+    "name": "Microsoft Office",
+    "logo": "https://images.seeklogo.com/logo-png/40/1/microsoft-office-logo-png_seeklogo-406239.png",
+    "reason": "Docs & tools"
+  },
+  {
+    "name": "Linux/Unix",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+    "reason": "OS basics"
+  }
+]
