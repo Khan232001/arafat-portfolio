@@ -1,34 +1,30 @@
 [
   {
-    "image": "/src/assets/Taste Crafter_Home_Page.png",
+    "image": "/Taste Crafter_Home_Page.png",
     "title": "Taste-Crafter – Restaurant Reservation System",
     "tags": ["MERN", "Firebase Auth", "Realtime DB"],
     "github": "https://github.com/Khan232001/Taste-Crafter",
-    "live": "https://keen-cuchufli-3b28d6.netlify.app/",
-    "desc": "Full-stack restaurant reservation app with real-time booking, authentication, and smooth UI/UX."
+    "live": "https://keen-cuchufli-3b28d6.netlify.app/"
   },
   {
-    "image": "/src/assets/EERD.png",
+    "image": "/EERD.png",
     "title": "DBMS Recruitment & Sales System",
     "tags": ["Python", "MySQL"],
     "github": "https://github.com/Khan232001/DBMS_Project",
-    "live": "",
-    "desc": "Database-driven system to manage recruitment processes, employee records, and sales data."
+    "live": ""
   },
   {
-    "image": "/src/assets/AirBnb_Home_Page.png",
+    "image": "/AirBnb_Home_page.png",
     "title": "Airbnb-Style Rental Management",
     "tags": ["MERN", "Mapbox"],
     "github": "https://github.com/Khan232001/airbnb",
-    "live": "https://airbnb-bmo0.onrender.com/listings",
-    "desc": "Rental management platform with property listings, map integration, and user-friendly dashboard."
+    "live": "https://airbnb-bmo0.onrender.com/listings"
   },
   {
-    "image": "/src/assets/ATM_Page.jpg",
+    "image": "/ATM_Page.jpg",
     "title": "ATM Simulator",
     "tags": ["Java", "OOP"],
     "github": "https://github.com/Khan232001/ATM-Machine",
-    "live": "",
-    "desc": "Java-based ATM simulator applying OOP concepts like encapsulation, inheritance, and polymorphism."
+    "live": ""
   }
 ]
