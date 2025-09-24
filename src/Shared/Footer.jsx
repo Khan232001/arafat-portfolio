@@ -20,7 +20,7 @@ const Footer = () => {
           <div className="max-w-7xl mx-auto px-6 py-6 text-center text-sm font-normal">
             <a
               className="text-[#d031b6] font-semibold"
-              href="https://www.linkedin.com/in/merazzak20/"
+              href="https://www.linkedin.com/in/arafatkhancs/"
               target="_blank"
             >
               Arafat Khan
