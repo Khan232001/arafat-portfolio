@@ -30,7 +30,7 @@ const Experience = () => {
             icon={<FaBriefcase />}
           >
             <h3 className="vertical-timeline-element-title font-bold">
-              Frontend Developer Intern – BlueCiate Inc. (SMSNXT)
+              Frontend Developer Intern – BluBYT Inc. (SMSNXT)
             </h3>
             <ul className="mt-5 list-disc list-inside">
               <li>

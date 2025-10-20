@@ -26,7 +26,7 @@ const About = () => {
     I am a final-year Computer Science student at UT Dallas (graduating Dec
     2025) with a strong passion for building impactful digital solutions.
     Currently working as a Frontend Developer Intern at{" "}
-    <span className="text-[#d846c0] font-semibold">BlueCiate (SMSNXT)</span>,
+    <span className="text-[#d846c0] font-semibold">BluBYT (SMSNXT)</span>,
     where I design and develop responsive, user-friendly, and scalable web
     applications.
   </p>
